@@ -1,16 +1,4 @@
 # PW_HW_1
-From GROUP_6.py BOT
-
-To use the BOT you need to:
-
-1. Download it [**here**](https://github.com/andreysuha2/group_project_6/releases/tag/assistant)
-2. To install it, you need to run the following command in the source folder: 
-        pip install assistant-1.2.2-py3-none-any.whl or py/python3 -m pip install assistant-1.2.2-py3-none-any.whl.
-3. To run the bot, just type the command "assistant".
-<br/>
-<br/>
-
-
 # --- CONTACTS HELP ---
 
         syntax: search {query_string}
